@@ -1,0 +1,28 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    margin-top: 10px;
+    width: 56px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 20px;
+    padding-top: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-color: pink;
+}
